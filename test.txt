@@ -1,12 +1,5 @@
 one
 two
-<<<<<<< HEAD
 ready?
 Go!
-=======
-ready?
-Go!
->>>>>>> ccce796e4871fc05b86cb7c78ffb091ce3494e9c
-making some more changes
-just checking to see if everything is in sync with github
 
